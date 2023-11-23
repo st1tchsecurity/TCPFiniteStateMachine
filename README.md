@@ -1,4 +1,4 @@
-# TCPFiniteStateMachine
+# A Simple TCP Finite State Machine Model
 A simple TCP FSM using a dictionary.
 
 # What is a Finite State Machine (FSM)?
